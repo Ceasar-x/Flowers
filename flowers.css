@@ -212,7 +212,7 @@
 }
 #footer{
     margin-top: 50px;
-   
+
     height: 350px;
     width: 100%;
     background-color: black;
@@ -385,7 +385,9 @@
     }
     #footer{
         height: 100%;
+       
     }
+    
     #foot{
         margin: 0px;
         display: block;
